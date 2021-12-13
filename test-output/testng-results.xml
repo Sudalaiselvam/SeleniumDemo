@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-13T19:15:49 IST" name="Suite" finished-at="2021-12-13T19:17:08 IST" duration-ms="78774">
+    <groups>
+    </groups>
+    <test started-at="2021-12-13T19:15:49 IST" name="Test" finished-at="2021-12-13T19:17:08 IST" duration-ms="78774">
+      <class name="Academy.Homepage">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Academy.Homepage@2ece4966]" started-at="2021-12-13T19:15:49 IST" name="initialize" finished-at="2021-12-13T19:16:04 IST" duration-ms="15135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="LaunchURL()[pri:1, instance:Academy.Homepage@2ece4966]" started-at="2021-12-13T19:16:04 IST" name="LaunchURL" finished-at="2021-12-13T19:16:07 IST" duration-ms="3357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchURL -->
+        <test-method signature="Logincredentials()[pri:2, instance:Academy.Homepage@2ece4966]" started-at="2021-12-13T19:16:07 IST" name="Logincredentials" finished-at="2021-12-13T19:16:13 IST" duration-ms="5532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logincredentials -->
+        <test-method signature="productname()[pri:3, instance:Academy.Homepage@2ece4966]" started-at="2021-12-13T19:16:13 IST" name="productname" finished-at="2021-12-13T19:16:19 IST" duration-ms="6328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productname -->
+        <test-method signature="printallproductname()[pri:4, instance:Academy.Homepage@2ece4966]" started-at="2021-12-13T19:16:19 IST" name="printallproductname" finished-at="2021-12-13T19:16:20 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printallproductname -->
+        <test-method signature="clickproductsusingwindowshandling()[pri:5, instance:Academy.Homepage@2ece4966]" started-at="2021-12-13T19:16:20 IST" name="clickproductsusingwindowshandling" finished-at="2021-12-13T19:16:21 IST" duration-ms="1211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickproductsusingwindowshandling -->
+        <test-method signature="sendpincodeUsingfilerobotclass()[pri:6, instance:Academy.Homepage@2ece4966]" started-at="2021-12-13T19:16:21 IST" name="sendpincodeUsingfilerobotclass" finished-at="2021-12-13T19:17:03 IST" duration-ms="42559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendpincodeUsingfilerobotclass -->
+        <test-method signature="clickaddtocartbtn()[pri:7, instance:Academy.Homepage@2ece4966]" started-at="2021-12-13T19:17:03 IST" name="clickaddtocartbtn" finished-at="2021-12-13T19:17:04 IST" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickaddtocartbtn -->
+        <test-method signature="navigatetohomescreen()[pri:8, instance:Academy.Homepage@2ece4966]" started-at="2021-12-13T19:17:04 IST" name="navigatetohomescreen" finished-at="2021-12-13T19:17:06 IST" duration-ms="2177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetohomescreen -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Academy.Homepage@2ece4966]" started-at="2021-12-13T19:17:06 IST" name="teardown" finished-at="2021-12-13T19:17:08 IST" duration-ms="1307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.Homepage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
